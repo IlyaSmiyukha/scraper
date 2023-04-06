@@ -1,0 +1,53 @@
+{
+  "name": "twiter-stats",
+  "version": "1.0",
+  "author": "Nilanth",
+  "keywords": [
+    "react",
+    "nextjs",
+    "swr",
+    "netlify",
+    "tailwindcss",
+    "vercel",
+    "axios",
+    "react-hooks",
+    "nextauth",
+    "next-themes",
+    "dark-mode",
+    "twitter-api"
+  ],
+  "description": "TwiterStats is a Twitter Followers Tracker build with Next.js, TailWindCSS, NextAuth.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nilanth/twiter-stats",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.5",
+    "axios": "^1.3.5",
+    "html-to-image": "^1.9.0",
+    "next": "latest",
+    "next-auth": "^4.20.1",
+    "next-themes": "^0.0.15",
+    "react": "^17.0.2",
+    "react-confetti": "^6.0.1",
+    "react-dom": "^17.0.2",
+    "react-use": "^17.3.2",
+    "swr": "^1.1.0",
+    "twitter-lite": "^1.1.0",
+    "vanilla-tilt": "^1.7.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "eslint": "8.5.0",
+    "eslint-config-next": "12.0.7",
+    "postcss": "^8.4.4",
+    "tailwindcss": "^3.0.0"
+  }
+}
